@@ -1,0 +1,11 @@
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\bin\Debug\LinqQueryObjects.exe.config
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\obj\Debug\LinqQueryObjects.csprojResolveAssemblyReference.cache
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\bin\Debug\LinqQueryObjects.exe
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\bin\Debug\LinqQueryObjects.pdb
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\bin\Debug\EntityFramework.dll
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\bin\Debug\EntityFramework.xml
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\obj\Debug\LinqQueryObjects.exe
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\obj\Debug\LinqQueryObjects.pdb
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\LinqQueryObjects\bin\Debug\DataBase\EntityFrameworkWeb.MyCode.SchoolContext.mdf

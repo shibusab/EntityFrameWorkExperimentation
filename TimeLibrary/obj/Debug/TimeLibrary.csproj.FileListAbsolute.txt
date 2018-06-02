@@ -1,0 +1,6 @@
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\TimeLibrary\bin\Debug\TimeLibrary.exe.config
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\TimeLibrary\bin\Debug\TimeLibrary.exe
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\TimeLibrary\bin\Debug\TimeLibrary.pdb
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\TimeLibrary\obj\Debug\TimeLibrary.csprojResolveAssemblyReference.cache
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\TimeLibrary\obj\Debug\TimeLibrary.exe
+C:\MyProgramWorkspace\dotnet\EntityFrameWorkExperimentation\TimeLibrary\obj\Debug\TimeLibrary.pdb
